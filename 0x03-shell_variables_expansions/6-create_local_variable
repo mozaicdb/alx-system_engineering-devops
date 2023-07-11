@@ -1,0 +1,5 @@
+#!/bin/bash
+# CREATE A LOACL VARIBLE
+local BEST='School'
+# Print out the variable on a string formate 
+echo 'the value of BEST : $BEST'
